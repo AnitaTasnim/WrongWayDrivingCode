@@ -98,7 +98,7 @@ if count % 2 != 0:
 * Normal vehicles highlighted in **purple**
 * Total wrong-way vehicle count displayed on top-left
 
-![wrong\_way\_example](screenshot.png)  *(Optional screenshot)*
+![wrongway.png]  
 
 ---
 
